@@ -1,8 +1,7 @@
 <div align="center">
 <h1> yolov9-deepsort-tracking </h1>
 
-[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/KdaiP/yolov8-deepsort-tracking)
-</div>
+
 
 ![示例图片](./sdjzu.jpg)
 
